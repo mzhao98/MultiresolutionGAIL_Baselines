@@ -1,4 +1,4 @@
-# MultiresolutionGAIL_Baselines
+# Baselines for Comparison to MultiresolutionGAIL
 Hierarchical Multiscale Recurrent Neural Network and Clockwork RNN implementations as baselines for comparison to a Multiresolution GAIL algorithm.
 
 ## Investigation/Implementation of Baselines
